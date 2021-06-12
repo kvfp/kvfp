@@ -39,7 +39,6 @@ Please feel free to view my [website](https://www.vfpabuna.tech/) for my resume 
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;<br/>
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
