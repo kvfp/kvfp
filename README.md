@@ -11,7 +11,7 @@
 
 I'm a Computer Science student currently finishing up my second year.
 This summer, I'm stoked to be a SWE Intern at Workiva, building components with Dart and React.
-I hope to continue gaining experience developing software to ultimately make a **positive, lasting impact**.
+I hope to continue gaining experience developing software to ultimately make a lasting impact.
 
 I'm quite a big fan of fullstack web/mobile development, but I would love to work with **Virtual Reality** in the future to help unlock its full potential!
 
