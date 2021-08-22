@@ -1,9 +1,7 @@
 ## 👋 Hi, there! I'm Vivien.
 
 <p align="left">
-<a href="https://www.vfpabuna.tech/"><img src="https://img.shields.io/badge/-vfpabuna.tech-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vpabuna/"><img src="https://img.shields.io/badge/-Vivien%20Frances%20Pabuna-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vfpabuna@gmail.com"><img src="https://img.shields.io/badge/-vfpabuna@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vpabuna/"><img src="https://img.shields.io/badge/-Feel free to connect!-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ### About Me
