@@ -9,14 +9,7 @@
 ### About Me
 <img src="https://media.giphy.com/media/2DjXJ5UmrqYPm/source.gif" alt="lala the penguin" title="lala the penguin" width="500" align="right"/>
 
-I'm a Computer Science student currently finishing up my second year.
-This summer, I'm stoked to be a SWE Intern at Workiva, building components with Dart and React.
-I hope to continue gaining experience developing software to ultimately make a lasting impact.
-
-I'm quite a big fan of fullstack web/mobile development, but I would love to work with **Virtual Reality** in the future to help unlock its full potential!
-
-Please feel free to view my [website](https://www.vfpabuna.tech/) for my resume and more information about me such as why I've chosen programming!
-
+I'm a Computer Science student currently finishing up my second year. I'm quite a big fan of fullstack web/mobile development, but I would love to work with **Virtual Reality** in the future to help unlock its full potential!
 
 ### My Computer Languages
 
@@ -36,7 +29,7 @@ Please feel free to view my [website](https://www.vfpabuna.tech/) for my resume 
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;<br/>
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
