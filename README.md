@@ -1,9 +1,5 @@
 ## 👋 Hi, there! I'm Vivien.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vpabuna/"><img src="https://img.shields.io/badge/-Feel free to connect!-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-</p>
-
 ### About Me
 <img src="https://media.giphy.com/media/2DjXJ5UmrqYPm/source.gif" alt="lala the penguin" title="lala the penguin" width="500" align="right"/>
 
