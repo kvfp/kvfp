@@ -3,7 +3,7 @@
 ### About Me
 <img src="https://media.giphy.com/media/2DjXJ5UmrqYPm/source.gif" alt="lala the penguin" title="lala the penguin" width="500" align="right"/>
 
-I'm a Computer Science student currently finishing up my second year. I'm quite a big fan of fullstack web/mobile development, but I would love to work with **Virtual Reality** in the future to help unlock its full potential!
+I'm a Computer Science student in my third year. I'm quite a big fan of fullstack web/mobile development, but I would love to work with **Virtual Reality** in the future to help unlock its full potential!
 
 ### My Computer Languages
 
